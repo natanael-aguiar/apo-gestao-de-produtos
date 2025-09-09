@@ -29,7 +29,7 @@ README.md         # Documentação do projeto
 
 ## Requisitos
 
-- PHP 7.4 ou superior
+- PHP 8.3 ou superior (recomendado)
 - MySQL/MariaDB
 - Navegador web moderno
 
