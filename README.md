@@ -36,10 +36,9 @@ README.md         # Documentação do projeto
 ## Instalação e Execução
 
 1. Configure o arquivo `.env` com os dados do seu banco MySQL.
-2. Execute o servidor embutido do PHP na pasta `public`:
+2. Execute o servidor embutido do PHP apontando para a pasta `public` (você pode rodar da raiz do projeto):
 	```bash
-	cd public
-	php -S localhost:8080
+	php -S localhost:8080 -t public
 	```
 3. Acesse [http://localhost:8080](http://localhost:8080) no navegador.
 
