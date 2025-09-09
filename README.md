@@ -5,7 +5,7 @@
 
 ## Funcionalidades
 
-- Cadastro e autenticação de usuários (senha com hash SHA254)
+- Cadastro e autenticação de usuários (senha com hash SHA256)
 - Cadastro, listagem e atualização de produtos e fornecedores (AJAX)
 - Relacionamento entre produtos e fornecedores
 - Seleção de produtos para cesta (carrinho) com validação
